@@ -1,1 +1,1 @@
-Welcome to Aninda's blog using Fastai
+Welcome to Aninda's blog using Fastai (Fast template)
